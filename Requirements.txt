@@ -1,0 +1,12 @@
+tensorflow==2.15.0
+pandas
+numpy
+scikit-learn>=1.6.1
+tensorboard
+matplotlib
+streamlit
+scikeras
+pydantic==1.10.8
+langchain==0.0.312
+openapi-schema-pydantic==1.2.4
+nltk
